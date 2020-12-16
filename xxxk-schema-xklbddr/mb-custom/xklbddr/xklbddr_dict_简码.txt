@@ -1,0 +1,15 @@
+#二字词
+nm 你们
+wv 我们
+zv 怎么
+zvj 自己
+yv 已经
+yvg 应该
+yvh 以后
+yvw 因为
+yvz 一直
+sv 什么
+jvd 绝对
+#三字词
+yvy 有没有
+wvm 为什么
