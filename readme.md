@@ -18,17 +18,17 @@
 
 ## 使用方法
 
-1. 下载感兴趣的扩展方案包（例如`xxxk-schema-xklbs`），将其中的文件复制粘贴到小小输入法的程序目录下（例如Windows版的`C:\Program Files (x86)\xxxk`，安卓版的`sdcard\yong`）。
+1. 下载感兴趣的扩展方案包（例如`xxxk-schema-xklbs`），将其中的文件覆盖到小小输入法的程序目录下（例如Windows版的`C:\Program Files (x86)\xxxk`，安卓版的`sdcard\yong`）。
 
-   > 这些方案都依赖于小小星空的公用包`xxxk-xkcommon`。如果想用于小小星空以外的小小类输入法，请先[下载](https://gitee.com/xkinput/xxxk/tree/master/xxxk-xkcommon)并安装该公用包。
+   > 这些方案都依赖于小小星空的公用包`xxxk-xkcommon`。如果想用于小小星空以外的小小类输入法，需先[下载](https://github.com/xkinput/xxxk)小小星空项目，将其中`xxxk-xkcommon`目录下的文件覆盖到小小输入法的程序目录下。
 
-2. 在小小星空输入法中加载方案。如果原来已经加载了该方案，请先卸载该方案，再重新加载。加载、卸载方案的方法，请参考小小星空文档中的[相关说明](https://xkinput.gitee.io/xxxk-help/#/intro-custom?id=%e5%8d%b8%e8%bd%bd%e5%8a%a0%e8%bd%bd%e6%96%b9%e6%a1%88)。
+2. 在小小星空输入法中加载方案。如果原来已经加载了该方案，请先卸载该方案，再重新加载。加载、卸载方案的方法，请参考小小星空文档中的[相关说明](https://xkinput.github.io/xxxk-help/#/intro-custom?id=%e5%8d%b8%e8%bd%bd%e5%8a%a0%e8%bd%bd%e6%96%b9%e6%a1%88)。
 
 3. 热重启输入法，切换到该方案。
 
 ## 参与贡献
 
-参考[教程](https://xkinput.gitee.io/xxxk-help/#/intro-custom)移植或制作自己的方案，并贡献到本项目。
+参考[教程](https://xkinput.github.io/xxxk-help/#/intro-custom)移植或制作自己的方案，并贡献到本项目。
 
 ##  更新记录
 
